@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_messages">
+
+    <fragment
+        android:id="@+id/nav_satellite"
+        android:name="com.satellite.messenger.ui.infosat.InfoSatFragment"
+        android:label="@string/menu_satellite"
+        tools:layout="@layout/fragment_satellite" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.satellite.messenger.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/nav_messages"
+        android:name="com.satellite.messenger.ui.messages.MessagesFragment"
+        android:label="@string/menu_messages"
+        tools:layout="@layout/fragment_messages" />
+    <fragment
+        android:id="@+id/nav_phone"
+        android:name="com.satellite.messenger.ui.phone.PhoneFragment"
+        android:label="@string/menu_phone"
+        tools:layout="@layout/fragment_phone" />
+
+    <fragment
+        android:id="@+id/nav_feedback"
+        android:name="com.satellite.messenger.ui.feedback.FeedbackFragment"
+        android:label="@string/menu_feedback"
+        tools:layout="@layout/fragment_phone" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.satellite.messenger.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_exit"
+        android:name="com.satellite.messenger.ui.exit.ExitFragment"
+        android:label="@string/menu_exit"
+        tools:layout="@layout/fragment_exit" />
+
+</navigation>

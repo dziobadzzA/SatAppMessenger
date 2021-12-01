@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="width_progressbar">72dp</dimen>
+    <dimen name="height_progressbar">72dp</dimen>
+    <dimen name="dimensSat">72dp</dimen>
+    <dimen name="dimensRecyclerView">650dp</dimen>
+    <dimen name="dimensRecyclerViewLong">350dp</dimen>
+    <dimen name="verticalRecyclerView">600dp</dimen>
+    <dimen name="dimensRecyclerViewLongW">670dp</dimen>
+    <dimen name="dimensRecyclerViewLongH">335dp</dimen>
+    <dimen name="size_header">96dp</dimen>
+    <dimen name="stepProgressBar">340dp</dimen>
+    <dimen name="setProgressBarDimens">570dp</dimen>
+    <dimen name="icon_size">48dp</dimen>
+</resources>

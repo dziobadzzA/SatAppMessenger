@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13287374",
+    "firebase_url": "https://satmessenger-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "satmessenger",
+    "storage_bucket": "satmessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13287374:android:f21f6f82f37fcab4acf59f",
+        "android_client_info": {
+          "package_name": "com.satellite.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13287374-pgg8961tqhuv9356tav43kpsha7k0ns3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cwkKCwArC61B0O7zpzc2zWHPcdHoDWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13287374-pgg8961tqhuv9356tav43kpsha7k0ns3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

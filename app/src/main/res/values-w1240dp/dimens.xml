@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">200dp</dimen>
+    <dimen name="activity_horizontal_margin">200dp</dimen>
+    <dimen name="width_progressbar">72dp</dimen>
+    <dimen name="height_progressbar">72dp</dimen>
+</resources>

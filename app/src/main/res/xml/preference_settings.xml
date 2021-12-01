@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--  <ListPreference
+        android:defaultValue="@string/default_theme_light"
+        android:entries="@array/array_theme"
+        android:entryValues="@array/array_theme"
+        android:key="@string/theme"
+        android:title="@string/preference_theme"/> -->
+
+    <ListPreference
+        android:defaultValue="red"
+        android:entries="@array/color_messages"
+        android:entryValues="@array/color_messages"
+        android:key="@string/my_color_message"
+        android:title="My messages color" />
+
+    <ListPreference
+        android:defaultValue="orange"
+        android:entries="@array/your_color_messages"
+        android:entryValues="@array/your_color_messages"
+        android:key="@string/your_color_message"
+        android:title="Your messages color" />
+
+</PreferenceScreen>

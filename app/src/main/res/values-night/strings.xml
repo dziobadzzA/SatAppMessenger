@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="UpdateDeleteAccount">Обновление будет содержать возможность удаление аккаунта через клиентское приложение. Пока обращайся через feedback</string>
+</resources>

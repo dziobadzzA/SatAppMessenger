@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/conteiner_messages.xml" value="0.17685185185185184" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/ic_baseline_architecture_24.xml" value="0.2078125" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/ic_baseline_feedback_24.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/ic_baseline_phone_36.xml" value="0.2611111111111111" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_feedback.xml" value="0.22" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_image.xml" value="0.1265625" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_image_land.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_info.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_phone.xml" value="0.2526455026455027" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_profile.xml" value="0.21" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_text.xml" value="0.20414462081128748" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-land/fragment_video.xml" value="0.20414462081128748" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13319946452476572" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout-w936dp/activity_login.xml" value="0.15546875" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/activity_login.xml" value="0.20729166666666668" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/app_bar_main.xml" value="0.17603850050658562" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/background.xml" value="0.11271529888551166" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/content_main.xml" value="0.17603850050658562" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_exit.xml" value="0.20625" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_feedback.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_gallery.xml" value="0.17603850050658562" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_home.xml" value="0.17603850050658562" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_image.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_info.xml" value="0.18" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_messages.xml" value="0.25" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_phone.xml" value="0.22" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_satellite.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_settings.xml" value="0.18" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.17603850050658562" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_text.xml" value="0.33" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/fragment_video.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/header_main.xml" value="0.18" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/layout_item.xml" value="0.25" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/layout_item_phone.xml" value="0.33" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/list_messages.xml" value="0.75" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/login_activity.xml" value="0.11607142857142858" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.3115646258503401" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/menu/main.xml" value="0.21203703703703702" />
+        <entry key="..\:/GoogleAndroid/SatApp/app/src/main/res/xml/preference_settings.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

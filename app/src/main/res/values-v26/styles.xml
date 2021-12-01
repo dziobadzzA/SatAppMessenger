@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextMessages">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_marginStart">50dp</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body1</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/container_messages</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:autoSizeTextType">uniform</item>
+    </style>
+</resources>
